@@ -8,6 +8,16 @@ With 5+ years of software engineering experience—ranging from high-throughput 
 
 ### 🛠️ My Technical Toolkit
 
+![Solana](https://img.shields.io/badge/Solana-%239945FF.svg?style=flat&logo=solana&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=flat&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+
 *   **Web3 & Mobile Integration:** Solana Mobile Stack (SMS), Mobile Wallet Adapter, TypeScript/JavaScript dApp integrations.
 *   **Native Android:** 3+ years of native development (Kotlin, Java), performance tuning, memory management, and code modernization.
 *   **Frontend & Cross-Platform:** 2 years of TypeScript/Angular experience, easily applicable to React Native Web3 dApp environments.
@@ -37,12 +47,3 @@ I am available for short-term consulting contracts (3–6 months) with agile Web
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/msantagiulianab/)
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/msantagiulianab)
 [![Web3 Career](https://img.shields.io/badge/Web3_Career-%23000000.svg?style=flat&logo=web3dotjs&logoColor=white)](https://web3.career/@msantagiulianab)
-
----
-
-### 📈 GitHub Insights
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=msantagiulianab&show_icons=true&theme=radial&hide_border=true" alt="Michele's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msantagiulianab&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</p>
