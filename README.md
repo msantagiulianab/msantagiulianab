@@ -34,13 +34,13 @@ With 5+ years of software engineering experience—ranging from high-throughput 
       <h4>⚡ solana-staker-mobile</h4>
       <p>Architecting and developing a mobile-first staking solution tailored for the Solana ecosystem, leveraging the Solana Mobile Stack to ensure seamless, native Web3 interactions.</p>
       <p><a href="https://github.com/msantagiulianab/solana-staker-mobile">https://github.com/msantagiulianab/solana-staker-mobile</a></p>
-      <img src="assets/images/SolanaStakerMobile-01082026.gif" alt="Solana Staker Mobile Preview" height="380px" />
+      <img src="assets/images/SolanaStakerMobile-01082026.gif" alt="Solana Staker Mobile Preview" height="380px" style="display: block; margin: 0 auto;" />
     </td>
     <td width="50%" valign="top">
       <h4>📊 Crypto Listings</h4>
       <p>Building out tracking architectures in the broader blockchain space, focusing on high-refresh market tracking, smooth animations, and optimized data serialization for digital assets.</p>
       <p><a href="https://github.com/msantagiulianab/CryptoListingsApp">https://github.com/msantagiulianab/CryptoListingsApp</a></p>
-      <img src="assets/images/CryptoListings-01082026.gif" alt="Crypto Listings Preview" height="380px" />
+      <img src="assets/images/CryptoListings-01082026.gif" alt="Crypto Listings Preview" height="380px" style="display: block; margin: 0 auto;" />
     </td>
   </tr>
 </table>
@@ -61,7 +61,7 @@ I am available for short-term consulting contracts (3–6 months) with agile Web
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/msantagiulianab/)
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/msantagiulianab)
-[![Web3 Career](https://img.shields.io/badge/Web3_Career-%23000000.svg?style=flat&logo=web3dotjs&logoColor=white)](https://web3.career/@msantagiulianab)
+[![Web3 Career](https://img.shields.io/badge/Web3_Career-%23BB0063.svg?style=flat)](https://web3.career/@msantagiulianab)
 
-📧 **Email:** michelesantagiuliana@hotmail.it
-💬 **WhatsApp:** +447507147407
+[![Email](https://img.shields.io/badge/-michelesantagiuliana%40hotmail.it-%23D14836.svg?style=flat&logo=outlook&logoColor=white)](mailto:michelesantagiuliana@hotmail.it)
+[![WhatsApp](https://img.shields.io/badge/-%2B447507147407-%2325D366.svg?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/447507147407)
