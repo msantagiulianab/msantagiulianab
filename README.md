@@ -33,13 +33,13 @@ With 5+ years of software engineering experience—ranging from high-throughput 
     <h4>⚡ solana-staker-mobile</h4>
     <p>Architecting and developing a mobile-first staking solution tailored for the Solana ecosystem, leveraging the Solana Mobile Stack to ensure seamless, native Web3 interactions.</p>
     <p><a href="https://github.com/msantagiulianab/solana-staker-mobile">https://github.com/msantagiulianab/solana-staker-mobile</a></p>
-    <img src="assets/images/SolanaStakerMobile-01082026.gif" alt="Solana Staker Mobile Preview" height="380px" style="display: block; margin: 0 auto;" />
+    <div align="center"><img src="assets/images/SolanaStakerMobile-01082026.gif" alt="Solana Staker Mobile Preview" height="380px" /></div>
   </div>
   <div style="flex: 1 1 40%; min-width: 300px;">
     <h4>📊 Crypto Listings</h4>
     <p>Building out tracking architectures in the broader blockchain space, focusing on high-refresh market tracking, smooth animations, and optimized data serialization for digital assets.</p>
     <p><a href="https://github.com/msantagiulianab/CryptoListingsApp">https://github.com/msantagiulianab/CryptoListingsApp</a></p>
-    <img src="assets/images/CryptoListings-01082026.gif" alt="Crypto Listings Preview" height="380px" style="display: block; margin: 0 auto;" />
+    <div align="center"><img src="assets/images/CryptoListings-01082026.gif" alt="Crypto Listings Preview" height="380px" /></div>
   </div>
 </div>
 
