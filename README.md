@@ -26,9 +26,22 @@ With 5+ years of software engineering experience—ranging from high-throughput 
 
 ---
 
-### 🚀 Current Project & Focus
+### 🚀 Current Projects & Focus
 
-*   **solana-staker-mobile:** Currently architecting and developing a mobile-first staking solution tailored for the Solana ecosystem, leveraging the Solana Mobile Stack to ensure seamless, native Web3 interactions.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ solana-staker-mobile</h4>
+      <p>Architecting and developing a mobile-first staking solution tailored for the Solana ecosystem, leveraging the Solana Mobile Stack to ensure seamless, native Web3 interactions.</p>
+      <img src="assets/images/SolanaStakerMobile-01082026.gif" alt="Solana Staker Mobile Preview" height="380px" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Crypto Listings</h4>
+      <p>Building out tracking architectures in the broader blockchain space, focusing on high-refresh market tracking, smooth animations, and optimized data serialization for digital assets.</p>
+      <img src="assets/images/CryptoListings-01082026.gif" alt="Crypto Listings Preview" height="380px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
