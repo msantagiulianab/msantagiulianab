@@ -1,8 +1,24 @@
-# Hi there, I'm Michele 👋
+# Hi there👋, I'm Michele     [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/msantagiulianab/) [![Web3 Career](https://img.shields.io/badge/Web3_Career-%23BB0063.svg?style=flat)](https://web3.career/@msantagiulianab)
 
-Full-Stack & Mobile Engineer specializing in **Solana Web3 mobile integrations**. I bridge the gap between traditional enterprise backends and cutting-edge mobile dApp architectures. 
+# ⚡ High-Impact Solana Mobile Architecture & Integration
 
-With 5+ years of software engineering experience—ranging from high-throughput enterprise systems to leading mobile consultancy pods—I focus on building high-performance, low-latency mobile experiences.
+I am a Full-Stack & Mobile Engineer specializing in **Solana Web3 mobile integrations**. I bridge the gap between traditional enterprise backends and cutting-edge mobile dApp architectures. With 5+ years of software engineering experience—ranging from high-throughput enterprise systems to leading mobile consultancy pods—I focus on building high-performance, low-latency mobile experiences.
+
+### 📌 Current Availability & Engagement Terms
+I am currently opening a select window for high-performance teams to leverage my expertise. If your project demands elite-level execution, you have the opportunity to secure my availability under the following parameters:
+
+*   **The Blueprint:** Solana Android Integration (Core Focus)
+*   **The Role:** Solana Mobile Integration Architect / Senior Android Consultant
+*   **Engagement:** 3–6 Month Contracts (Sprint or Milestone-based execution)
+*   **Timeline:** Available immediately for the right project starting next Monday.
+*   **Synchronization:** Full-time Remote with **100% overlap with US Eastern Time (EST) hours**.
+
+### 🤝 What I Bring to Your Pod
+I do not just write code; I accelerate shipping timelines for Agile Web3 engineering pods looking to deploy robust mobile dApps on Solana. If your team is ready to scale its mobile Web3 footprint and values plug-and-play architectural leadership, let’s talk.
+
+[![Email](https://img.shields.io/badge/-michelesantagiuliana%40hotmail.it-%23D14836.svg?style=flat&logo=outlook&logoColor=white)](mailto:michelesantagiuliana@hotmail.it)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/msantagiulianab)
+[![WhatsApp](https://img.shields.io/badge/-%2B447507147407-%2325D366.svg?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/447507147407)
 
 ---
 
@@ -58,8 +74,8 @@ With 5+ years of software engineering experience—ranging from high-throughput 
 I am available for short-term consulting contracts (3–6 months) with agile Web3 engineering pods looking to ship high-performance mobile dApps.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/msantagiulianab/)
-[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/msantagiulianab)
 [![Web3 Career](https://img.shields.io/badge/Web3_Career-%23BB0063.svg?style=flat)](https://web3.career/@msantagiulianab)
 
 [![Email](https://img.shields.io/badge/-michelesantagiuliana%40hotmail.it-%23D14836.svg?style=flat&logo=outlook&logoColor=white)](mailto:michelesantagiuliana@hotmail.it)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/msantagiulianab)
 [![WhatsApp](https://img.shields.io/badge/-%2B447507147407-%2325D366.svg?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/447507147407)
