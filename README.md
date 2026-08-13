@@ -46,6 +46,17 @@ I do not just write code; I accelerate shipping timelines for Agile Web3 enginee
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1 1 40%; min-width: 300px;">
+    <h4>🌉 solana-rwa-enterprise-bridge</h4>
+    <p>Enterprise-grade bridge between off-chain Spring Boot infrastructure (KYC/AML compliance, audit, PostgreSQL) and the Solana blockchain (Devnet RPC). Strict Test-Driven Development, off-chain compliance gatekeeping, and immutable audit logging.</p>
+    <p><a href="https://github.com/msantagiulianab/solana-rwa-enterprise-bridge">https://github.com/msantagiulianab/solana-rwa-enterprise-bridge</a></p>
+    <div align="center" style="display: grid; grid-template-columns: 160px 160px; gap: 8px; justify-content: center;">
+      <img src="assets/images/asset_tokens.png" alt="Asset Tokens" width="160px" />
+      <img src="assets/images/tokenize_assets.png" alt="Tokenize Assets" width="160px" />
+      <img src="assets/images/investor_kyc.png" alt="Investor KYC" width="160px" />
+      <img src="assets/images/audit_logs.png" alt="Audit Logs" width="160px" />
+    </div>
+  </div>
+  <div style="flex: 1 1 40%; min-width: 300px;">
     <h4>⚡ solana-staker-mobile</h4>
     <p>Architecting and developing a mobile-first staking solution tailored for the Solana ecosystem, leveraging the Solana Mobile Stack to ensure seamless, native Web3 interactions.</p>
     <p><a href="https://github.com/msantagiulianab/solana-staker-mobile">https://github.com/msantagiulianab/solana-staker-mobile</a></p>
