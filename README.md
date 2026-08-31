@@ -41,7 +41,7 @@ I do not just write code; I design fail-closed architectures, eliminate external
     *   **Enterprise Architecture:** Java 21, Spring Boot 3.5, Hibernate/JPA, PostgreSQL, Docker, fail-closed KYC/AML compliance gatekeepers, and append-only audit trail logging.
 
 *   **2. Web3 Frontend & Responsive dApps:**
-    *   Modern standalone frontend architecture with **Angular 18+** / **React**, TypeScript, Tailwind CSS, and RxJS state streams.
+    *   Modern standalone frontend architecture with **TypeScript** / **Angular 18+**, Tailwind CSS, and RxJS state streams.
     *   Browser wallet integrations (`@solana/web3.js`, Phantom, Solflare), self-custody transaction signing, and dynamic explorer linking.
 
 *   **3. Native & Cross-Platform Mobile:**
