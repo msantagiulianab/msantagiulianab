@@ -51,13 +51,13 @@ I do not just write code; I design fail-closed architectures, eliminate external
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1 1 40%; min-width: 300px;">
     <h4>🏆 solana-agentic-suite <em>(Apex)</em></h4>
-    <p>Enterprise HTTP 402 AI Agent gateway — a pure-JVM backend that lets autonomous agents transact on Solana through a Payment Required rail. Ships with MCP (Model Context Protocol) tooling, self-custodied agent payments, and a fail-closed settlement flow.</p>
+    <p>Enterprise HTTP 402 AI Agent gateway — a pure-JVM backend enabling autonomous agents to transact on Solana. Ships with production-ready Model Context Protocol (MCP) tooling (native integration with Claude Desktop and Cline), sub-10ms in-memory Ed25519 verification, and fail-closed audit ledgers.</p>
     <p><a href="https://github.com/msantagiulianab/solana-agentic-suite">https://github.com/msantagiulianab/solana-agentic-suite</a></p>
     <p>📺 <a href="https://youtu.be/1K0cWbcOBrw">Watch the demo</a></p>
   </div>
   <div style="flex: 1 1 40%; min-width: 300px;">
     <h4>🌉 solana-rwa-enterprise-bridge <em>(Foundational)</em></h4>
-    <p>The foundational enterprise pipeline connecting off-chain Spring Boot infrastructure (KYC/AML compliance gatekeeper, immutable audit trail, PostgreSQL) directly to Solana Devnet RPC. Built on Token-2022 with a zero-dependency pure-Java binary transaction wire serializer, dynamic rent exemption, and atomic 2-instruction SPL token minting backed by 107 passing backend tests.</p>
+    <p>The foundational enterprise pipeline connecting off-chain Spring Boot infrastructure (KYC/AML compliance gatekeeper, immutable audit trail, PostgreSQL) directly to Solana Devnet RPC. Built on Token-2022 with a zero-dependency pure-Java binary transaction wire serializer, dynamic rent exemption, and atomic 2-instruction SPL token minting backed by 280 automated backend tests (199 unit, 78 integration, 3 Devnet smoke).</p>
     <p><a href="https://github.com/msantagiulianab/solana-rwa-enterprise-bridge">https://github.com/msantagiulianab/solana-rwa-enterprise-bridge</a></p>
   </div>
 </div>
